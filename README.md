@@ -1,4 +1,5 @@
 # antd4-multiple-lines-select
+
 Select Component showing multiple lines on Ant Design 4
 
 ## Usage
@@ -33,3 +34,7 @@ Override antd's style
   white-space: pre-wrap;
 }
 ```
+
+## result
+
+![example.jpg](example.jpg)
