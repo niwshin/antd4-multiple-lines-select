@@ -3,10 +3,12 @@ Select Component showing multiple lines on Ant Design 4
 
 ## Usage
 
+In your file that include `<Select />` and import css just like below,
 
 ```JSX:MultiLineSelect.tsx
 import React from 'react';
 import { Select } from 'antd';
+import './MultiLineSelect.css'
 
 const MultiLineSelect = () => (
   <Select
@@ -14,6 +16,8 @@ const MultiLineSelect = () => (
   />
 );
 ```
+
+Override antd's style
 
 ```CSS:MultiLineSelect.css
 .ant-select-selector {
