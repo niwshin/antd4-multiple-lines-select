@@ -18,7 +18,7 @@ const MultiLineSelect = () => (
 );
 ```
 
-Override antd's style
+Override antd's style in css file
 
 ```CSS:MultiLineSelect.css
 .ant-select-selector {
