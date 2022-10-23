@@ -1,0 +1,12 @@
+.ant-select-selector {
+  white-space: pre-wrap;
+  height: fit-content !important;
+}
+
+.ant-select-selection-item {
+  white-space: pre-wrap;
+}
+
+.ant-select-item-option-content {
+  white-space: pre-wrap;
+}
